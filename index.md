@@ -9,3 +9,4 @@ The aim is to identify patterns which indicate if a person is likely to default,
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/vkarkera/LendingClubCaseStudy.git)
 
 <center><img src="/assets/img/lending-club-image.jpeg"/></center>
+---
